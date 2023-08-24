@@ -11,7 +11,7 @@ import javax.swing.event.DocumentListener;
 import java.io.*;
 import java.util.ArrayList;
 
-@SuppressWarnings("serial")
+
 public class TecladoConPangramas extends JFrame {
     private JTextArea textoEsperado;
     private JTextArea textoTipeado;
